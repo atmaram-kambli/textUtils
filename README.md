@@ -19,3 +19,6 @@ Some of the key technical features implemented in the Application are:
 2. Alert notification
 3. Text manipulation features
 4. React Router
+
+### Preview
+You can check visit the website for more info: https://textutils100.netlify.app/
